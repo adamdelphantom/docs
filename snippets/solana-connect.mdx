@@ -1,3 +1,4 @@
+```javascript
 const getProvider = () => {
   if ('phantom' in window) {
     const provider = window.phantom?.solana;
@@ -5,7 +6,7 @@ const getProvider = () => {
       return provider;
     }
   }
-  [window.open](http://window.open)('https://phantom.app/', '\_blank');
+  window.open('https://phantom.app/', '_blank');
 };
 
 const provider = getProvider(); // see "Detecting the Provider"
@@ -17,3 +18,4 @@ try {
 } catch (err) {
     // { code: 4001, message: 'User rejected the request.' }
 }
+```
