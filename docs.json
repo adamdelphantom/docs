@@ -73,7 +73,7 @@
       "anchors": [
         {
           "anchor": "Get Started",
-          "href": "https://ghost-testing.mintlify.app",
+          "href": "https://ghost-testing.mintlify.app/index",
           "icon": "book-open-cover"
         }
       ]
