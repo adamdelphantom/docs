@@ -24,12 +24,21 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "API, SDK and Chain Reference",
         "groups": [
           {
             "group": "API Documentation",
             "pages": [
               "api-reference/introduction"
+            ]
+          },
+           {
+            "group": "Blockchain Reference",
+            "pages": [
+              "chain-reference/solana",
+              "chain-reference/evm",
+              "chain-reference/sui",
+              "chain-reference/bitcoin"
             ]
           },
           {
@@ -44,17 +53,8 @@
         ]
       },
       {
-        "tab": "Tools and References",
+        "tab": "Tools and Extras",
         "groups": [
-         {
-            "group": "Blockchain Reference",
-            "pages": [
-              "chain-reference/solana",
-              "chain-reference/evm",
-              "chain-reference/sui",
-              "chain-reference/bitcoin"
-            ]
-          },
           {
             "group": "Tools",
             "pages": [
