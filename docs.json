@@ -31,6 +31,15 @@
               "essentials/navigation",
               "essentials/reusable-snippets"
             ]
+          },
+          {
+            "group": "Blockchain Reference",
+            "pages": [
+              "chain-reference/solana",
+              "chain-reference/evm",
+              "chain-reference/sui",
+              "chain-reference/bitcoin"
+            ]
           }
         ]
       },
