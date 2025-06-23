@@ -14,13 +14,11 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Guides",
             "pages": [
-              "index",
-              "quickstart",
-              "development",
               "mobile",
-              "web"
+              "web",
+              "api"
             ]
           },
           {
